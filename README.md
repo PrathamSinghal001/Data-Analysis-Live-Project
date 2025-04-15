@@ -52,7 +52,7 @@ This analysis provided deep insights into student data trends, helping identify 
 ## 📁 File Info
 - `Live_Project_Data_Analysis.py`: Complete analysis script with cleaning, processing, and visualization.
 
-- 
+
 # We have collected a dataset containing below attributes for each student:
 
 1. First name and last name: These attributes identify the student individually.
